@@ -4,3 +4,6 @@ npm view "express"
 npm view "express" "dependencies"
 npm outdated
 npm-check-updates
+npm install
+npm i jshint --save-dev
+npm uninstall mongoos
