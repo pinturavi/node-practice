@@ -1,0 +1,6 @@
+npm list
+npm list --depth=0
+npm view "express"
+npm view "express" "dependencies"
+npm outdated
+npm-check-updates
